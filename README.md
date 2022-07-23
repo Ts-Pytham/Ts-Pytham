@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [JSYoutubeDownloader.NET](https://github.com/Ts-Pytham/JSYoutubeDownloader.NET)
 
-- 🌱 I’m currently learning **FastAPI, ASPNetCore and EntityFramework**
+- 🌱 I’m currently learning **ASP Net Core and EntityFramework**
 
 - 👯 I've collaborated with [MrDave1999 in your project "Capture The Flag"](https://github.com/MrDave1999/Capture-The-Flag)
 
-- 💬 Ask me about **i like to programming in C#, i like to create desktop applications using WPF and i learning FastAPI in Python**
+- 💬 Ask me about **i like to programming in C#, create desktop applications using WPF and create api's in C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
