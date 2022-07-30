@@ -19,3 +19,11 @@
 <h1> Stats </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ts-Pytham&show_icons=true&theme=jolly))](https://github.com/anuraghazra/github-readme-stats)
+
+<h1> Best repository </h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ts-Pytham&repo=JSYoutubeDownloader.NET&theme=jolly&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1> Languages </h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-Pytham&theme=jolly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-Pytham&theme=jolly&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
