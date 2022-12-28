@@ -1,7 +1,7 @@
 <h1 align="center">Console.WriteLine("Hi 👋, I'm Ts-Pytham");</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [JSYoutubeDownloader.NET](https://github.com/Ts-Pytham/JSYoutubeDownloader.NET)
+- 🔭 I’m currently working on [GenericCollectionsExtension](https://github.com/Ts-Pytham/GenericCollectionsExtension)
 
 - 🌱 I’m currently learning **ASP Net Core and EntityFramework**
 
